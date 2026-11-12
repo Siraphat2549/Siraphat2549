@@ -33,10 +33,6 @@ Full-stack e-commerce site inspired by Thailand's "20 Baht shops", with a REST A
 **Languages:** C++ · Python · TypeScript · JavaScript · HTML/CSS · SQL
 **Web:** Next.js · NestJS · Node.js / Express · Prisma
 **Hardware / IoT:** ESP32 · Arduino · I²C/SPI sensors and displays
-**Tools:** Git · Docker · PostgreSQL · MySQL · SQLite
+**Tools:** Git · Docker · PostgreSQL · MySQL
 
 ---
-
-### 📊 GitHub Stats
-
-![Siraphat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Siraphat2549&show_icons=true&hide_border=true)
